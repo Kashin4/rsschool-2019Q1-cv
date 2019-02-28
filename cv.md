@@ -8,10 +8,10 @@
    * Discord account: Kashin#4778
 3. Summary:
 4. Skills:  
-   *HTML/HTML5
-   *CSS/CSS3
-   *Photoshop
-   *Javascript(Novice)
+   * HTML/HTML5
+   * CSS/CSS3
+   * Photoshop
+   * Javascript(Novice)
 5. Code examples: https://github.com/Kashin4/first-steps
 6. Experience:  
    * refactor and redesign of game page: 2011-2012
